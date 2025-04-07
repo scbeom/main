@@ -133,10 +133,10 @@ services:
 #      Describe
     
     papers:
-      - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
-                 Australia - <B>Changbeom Shim</B>     
-        title: '"Privacy-preserving processing and sharing of spatio-temporal data" 20,000K KRW, 2024 - 2025'
-        conference: International Mobility Project - National Research Foundation of Korea, South Korea
+      # - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
+      #            Australia - <B>Changbeom Shim</B>     
+      #   title: '"Privacy-preserving processing and sharing of spatio-temporal data" 20,000K KRW, 2024 - 2025'
+      #   conference: International Mobility Project - National Research Foundation of Korea, South Korea
     
       - authors: <B>Changbeom Shim</B>, Ba Tuong Vo, Youngho Kim, Jin Bum Hong, Sanjeev Arulampalam, and Du Yong Kim
         title: '"Scalable sensor fusion for 3D environmental mapping" 150K AUD, 2023 - 2025 [<a href="https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Cook-Government-invests-%24900%2C000-in-defence-research-20231223" style="color: #FF8100">Announcement</a>][<a href="https://www.wa.gov.au/government/announcements/collaborative-research-grant-recipient-dr-changbeom-shim" style="color: #0000FF">Media</a>]'
