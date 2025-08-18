@@ -99,7 +99,7 @@ experiences:
       company: School of Electrical Engineering, Computing and Mathematical Sciences, Curtin University, Perth, Australia
 #       company: Department of Electrical and Computer Engineering at Curtin University, Australia
       details: |
-        - Supervisors: Prof. Ba-Ngu Vo and Prof. Ba Tuong Vo 
+      #   - Supervisors: Prof. Ba-Ngu Vo and Prof. Ba Tuong Vo 
 #       - An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness
 #       - A data-driven system for privacy-preserving pandemic prevention
 #       - Efficient large-scale multi-object tracking
@@ -107,8 +107,8 @@ experiences:
     - role: Research Assistant
       time: Mar. 2014 - Aug. 2019
       company: Department of Computer Science and Engineering, Korea University, Seoul, South Korea
-      details: |
-        - Supervisor: Prof. Yon Dohn Chung
+      # details: |
+      #   - Supervisor: Prof. Yon Dohn Chung
 #       - A research on safe and convenient big data processing methods
 #       - A research on privacy issues and privacy protection methods for social network services
 #       - An intelligent system for crime detection/prevention and public security based on CCTV bigdata
@@ -117,7 +117,7 @@ experiences:
       time: Jan. 2019 - Feb. 2019
       company: School of Engineering, RMIT University, Melbourne, Australia
       details: |
-        - Supervisor: Dr. Du Yong Kim 
+      #   - Supervisor: Dr. Du Yong Kim 
 #       - A research on random finite set approach to database applications
         
     - role: Student Researcher
@@ -128,7 +128,7 @@ experiences:
 
 
 services:
-    title: Funded Projects
+    title: Selected Projects
 #    intro: |
 #      Describe
     
@@ -151,10 +151,10 @@ services:
         title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness" 40,000K KRW, 2020 - 2021'
         conference: Postdoctoral Fellowship (Nurturing Next-generation Researchers) - National Research Foundation of Korea, South Korea
 
-      - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
-                 Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
-        title: '"A data-driven system for privacy-preserving pandemic prevention" 50,000K KRW, 2020 - 2021'
-        conference: International Joint Research - National Research Foundation of Korea, South Korea
+      # - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
+      #            Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
+      #   title: '"A data-driven system for privacy-preserving pandemic prevention" 50,000K KRW, 2020 - 2021'
+      #   conference: International Joint Research - National Research Foundation of Korea, South Korea
         
         
 projects:
@@ -202,7 +202,7 @@ projects:
         
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
         - Please visit my 
         <a href="https://scholar.google.com/citations?hl=en&user=2CnNNS4AAAAJ&view_op=list_works&sortby=pubdate" style="color: #4169E1"><B>Google scholar</B></a> 
@@ -217,13 +217,13 @@ publications:
         title: '<a href="https://ieeexplore.ieee.org/document/10704579">"An Overview of Multi-Object Estimation via Labeled Random Finite Set"</a> [<a href="https://arxiv.org/abs/2409.18531" style="color: #B31B1B">Preprint</a>]'
         conference: IEEE Transactions on Signal Processing, Oct. 2024
     
-      - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/nguyenvanhoa89/smooth-trajectory-estimator-lmb" style="color: #6A00FF">Project</a>]'
-        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
+      # - authors: <B>[18]</B> Hoa Van Nguyen, Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Marzhar Anuar
+      #   title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382267">"The Smooth Trajectory Estimator for LMB Filters"</a> [<a href="https://arxiv.org/abs/2401.00682" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/nguyenvanhoa89/smooth-trajectory-estimator-lmb" style="color: #6A00FF">Project</a>]'
+      #   conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
-      - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382268">"Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning"</a> [<a href="https://arxiv.org/abs/2310.14506" style="color: #B31B1B">Preprint</a>]'
-        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
+      # - authors: <B>[17]</B> Ji Youn Lee, <B>Changbeom Shim</B>, Hoa Van Nguyen, Tran Thien Dat Nguyen, Hyunjin Choi, and Younhgho Kim
+      #   title: '<a href="https://ieeexplore.ieee.org/abstract/document/10382268">"Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning"</a> [<a href="https://arxiv.org/abs/2310.14506" style="color: #B31B1B">Preprint</a>]'
+      #   conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2023
     
       - authors: <B>[16]</B> <B>Changbeom Shim</B>, Ba-Tuong Vo, Ba-Ngu Vo, Jonah Ong, and Diluka Moratuwage
         title: '<a href="https://ieeexplore.ieee.org/document/10128749">"Linear Complexity Gibbs Sampling for Generalized Labeled Multi-Bernoulli Filtering"</a> [<a href="https://arxiv.org/abs/2211.16041" style="color: #B31B1B">Preprint</a>][<a href="https://scbeom.github.io/main/ICASSP24_poster.pdf" style="color: #808000">Poster</a>]'
@@ -233,9 +233,9 @@ publications:
         title: '<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05218-y">"CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages"</a> [<a href="https://scbeom.github.io/ctv_tutorial/index.html" style="color: #6A00FF">Project</a>]'
         conference: BMC Bioinformatics, Mar. 2023
   
-      - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9990167">"Generalized Label Grouping for Scalable Trajectory Estimation"</a>'
-        conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
+      # - authors: <B>[14]</B> <B>Changbeom Shim</B>, Ji Youn Lee, Diluka Moratuwage, Du Yong Kim, and Yon Dohn Chung
+      #   title: '<a href="https://ieeexplore.ieee.org/abstract/document/9990167">"Generalized Label Grouping for Scalable Trajectory Estimation"</a>'
+      #   conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Nov. 2022
     
       - authors: <B>[13]</B> Diluka Moratuwage, <B>Changbeom Shim</B>, and Yuthika Punchihewa
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/9990443">"A Moving Window Based Approach to Multi-Scan Multi-Target Tracking"</a> <a href="https://scbeom.github.io/main/ICCAIS22 Award.pdf"><B>Best Paper</B></a> [<a href="https://arxiv.org/abs/2210.04008" style="color: #B31B1B">Preprint</a>]'
@@ -245,9 +245,9 @@ publications:
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/9933644">"Multi-Sensor Multi-Scan Multi-Object State Estimation"</a> [<a href="https://arxiv.org/abs/2205.15516" style="color: #B31B1B">Preprint</a>]'
         conference: IEEE Transactions on Signal Processing, Oct. 2022
     
-      - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://www.sciencedirect.com/science/article/pii/S0165168422000792">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a> [<a href="https://github.com/TranThienDat-Nguyen/Adaptive-GLMB" style="color: #6A00FF">Project</a>]'
-        conference: Signal Processing, Jul. 2022
+      # - authors: <B>[11]</B> Cong-Thanh Do, Tran Thien Dat Nguyen, Diluka Moratuwage, <B>Changbeom Shim</B>, and Yon Dohn Chung
+      #   title: '<a href="https://www.sciencedirect.com/science/article/pii/S0165168422000792">"Multi-object tracking with an adaptive generalized labeled multi-Bernoulli filter"</a> [<a href="https://github.com/TranThienDat-Nguyen/Adaptive-GLMB" style="color: #6A00FF">Project</a>]'
+      #   conference: Signal Processing, Jul. 2022
         
       - authors: <B>[10]</B> Jonah Ong, Ba Tuong Vo, Sven Nordholm, Ba-Ngu Vo, Diluka Moratuwage, and <B>Changbeom Shim</B>
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/9733974">"Audio-Visual Based Online Multi-Source Separation"</a>'
@@ -257,17 +257,17 @@ publications:
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/9624509">"Space-oriented Label Partitioning for Multi-object Tracking"</a> <a href="https://scbeom.github.io/main/ICCAIS21 Award.pdf"><B>Best Paper (First Runner-up)</B></a>'
         conference: International Conference on Control, Automation and Information Sciences (ICCAIS), Oct. 2021
 
-      - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://link.springer.com/article/10.1007/s12650-021-00758-y">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a> [<a href="https://github.com/wooilkim/SkyFlow" style="color: #6A00FF">Project</a>]'
-        conference: Journal of Visualization, May 2021
+      # - authors: <B>[8]</B> Wooil Kim, <B>Changbeom Shim</B>, and Yon Dohn Chung
+      #   title: '<a href="https://link.springer.com/article/10.1007/s12650-021-00758-y">"SkyFlow: A visual analysis of high-dimensional skylines in time-series"</a> [<a href="https://github.com/wooilkim/SkyFlow" style="color: #6A00FF">Project</a>]'
+      #   conference: Journal of Visualization, May 2021
 
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, <B>Changbeom Shim</B>, and Wooil Kim
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/9433957">"Biological Cell Tracking and Lineage Inference Via Random Finite Sets"</a>'
         conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr. 2021
     
-      - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung
-        title: '<a href="https://ieeexplore.ieee.org/abstract/document/9099257">"Cohesive Ridesharing Group Queries in Geo-Social Networks"</a>'
-        conference: IEEE Access, May 2020
+      # - authors: <B>[6]</B> <B>Changbeom Shim</B>, Gyuhyeon Sim, and Yon Dohn Chung
+      #   title: '<a href="https://ieeexplore.ieee.org/abstract/document/9099257">"Cohesive Ridesharing Group Queries in Geo-Social Networks"</a>'
+      #   conference: IEEE Access, May 2020
     
       - authors: <B>[5]</B> Wooil Kim, <B>Changbeom Shim</B>, Wan Heo, Sungmin Yi, and Yon Dohn Chung
         title: '<a href="https://www.sciencedirect.com/science/article/pii/S0169023X17305517">"Moving view field nearest neighbor queries"</a>'
@@ -281,13 +281,13 @@ publications:
         title: '<a href="https://ieeexplore.ieee.org/abstract/document/8585462">"A Visual Explorer for Analyzing Trajectory Patterns"</a> <a href="https://ieeevis.org/year/2017/info/overview-amp-topics/vast-challenge-program"><B>Honorable Mention (Challenge)</B></a>'
         conference: IEEE Visual Analytics Science and Technology (VAST), Oct. 2017
         
-      - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
-        title: '<a href="https://www.sciencedirect.com/science/article/pii/S002002551730628X">"Reverse View Field Nearest Neighbor Queries"</a>'
-        conference: Information Sciences, Sep. 2017
+      # - authors: <B>[2]</B> Sungmin Yi, <B>Changbeom Shim</B>, and Yon Dohn Chung
+      #   title: '<a href="https://www.sciencedirect.com/science/article/pii/S002002551730628X">"Reverse View Field Nearest Neighbor Queries"</a>'
+      #   conference: Information Sciences, Sep. 2017
         
-      - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
-        title: '<a href="https://www.jstage.jst.go.jp/article/transinf/E100.D/4/E100.D_2016DAL0003/_article/-char/en">"&#8467-Close Range Friends Query on Social Grid Index"</a>'
-        conference: IEICE Transaction on Information and Systems, Apr. 2017
+      # - authors: <B>[1]</B> <B>Changbeom Shim</B>, Wooil Kim, Wan Heo, Sungmin Yi, and Yon Dohn Chung
+      #   title: '<a href="https://www.jstage.jst.go.jp/article/transinf/E100.D/4/E100.D_2016DAL0003/_article/-char/en">"&#8467-Close Range Friends Query on Social Grid Index"</a>'
+      #   conference: IEICE Transaction on Information and Systems, Apr. 2017
 
 # projects:
 #     title: Professional Services
