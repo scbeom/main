@@ -49,9 +49,13 @@ sidebar:
         specific1: Bayesian Learning
         specific2: Multi-Object Tracking 
 
-      - topic: <B>MACHINE LEARNING</B>
-        specific1: Graph Neural Networks
-        specific2: Anomaly Detection
+      - topic: <B>ARTIFICIAL INTELLIGENCE</B>
+        specific1: World Models
+        specific2: Spatial Intelligence
+
+      # - topic: <B>MACHINE LEARNING</B>
+      #   specific1: Graph Neural Networks
+      #   specific2: Anomaly Detection
         
     cvlink: scbeom.github.io/main/C.Shim_CV.pdf
     cvname: Curriculum Vitae
@@ -149,7 +153,7 @@ services:
 
       - authors: <B>Changbeom Shim</B>
         title: '"An intelligent system for crime analysis and prevention based on multi-object tracking and situational awareness" 40,000K KRW, 2020 - 2021'
-        conference: Postdoctoral Fellowship (Nurturing Next-generation Researchers) - National Research Foundation of Korea, South Korea
+        conference: Postdoctoral Fellowship - National Research Foundation of Korea, South Korea
 
       # - authors: South Korea - Yon Dohn Chung (Korea University)   <br>  
       #            Australia - Ba-Ngu Vo, Ba Tuong Vo, Du Yong Kim, and <B>Changbeom Shim</B>     
