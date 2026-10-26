@@ -214,8 +214,12 @@ publications:
         or <a href="https://dblp.org/pers/hd/s/Shim:Changbeom" style="color: #DAA520"><B>DBLP</B></a> for more details.
       
     papers:
+      - authors: <B>[9]</B> Yujeong Jo, Incheol Baek, <B>Changbeom Shim</B>, Yon Dohn Chung
+        title: '<a href="">"TraHist: Fast and Accurate Cardinality Estimation for Trajectory Data"</a> [<a href="https://arxiv.org/abs/2610.22310" style="color: #B31B1B">Preprint</a>][<a href="https://github.com/YJ960/TraHist" style="color: #6A00FF">Project</a>]'
+        conference: Proceedings of the ACM on Management of Data, Dec. 2026 (to appear in SIGMOD 2027)
+    
       - authors: <B>[8]</B> <B>Changbeom Shim</B>, Jangwon Gim, Yeeun Kim, Yeonghun Chae
-        title: '<a href="https://www.sciencedirect.com/science/article/pii/S2352711026000130">"DIZEST: A low-code platform for workflow-driven artificial intelligence and data analysis"</a>'
+        title: '<a href="https://www.sciencedirect.com/science/article/pii/S2352711026000130">"DIZEST: A low-code platform for workflow-driven artificial intelligence and data analysis"</a> [<a href="https://github.com/season-framework/dizest" style="color: #6A00FF">Project</a>]'
         conference: SoftwareX, Feb. 2026
     
       - authors: <B>[7]</B> Tran Thien Dat Nguyen, Ba-Tuong Vo, Ba-Ngu Vo, Hoa Van Nguyen, <B>Changbeom Shim</B>
